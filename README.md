@@ -1,12 +1,12 @@
 # AI-CHATBOT-WITH-NLP
-COMPANY: CODTECH IT SOLUTIONS 
-NAME: SHWETA MAHADEV PANDHARE 
-INTERN ID: CT04DH885 
-DOMAIN: PYTHON PROGRAMMING 
-DURATION: 4 WEEKS 
-MENTOR: NEELA SANTHOSH
+*COMPANY*: CODTECH IT SOLUTIONS 
+*NAME*: SHWETA MAHADEV PANDHARE 
+*INTERN ID*: CT04DH885 
+*DOMAIN*: PYTHON PROGRAMMING 
+*DURATION*: 4 WEEKS 
+*MENTOR*: NEELA SANTHOSH
 
-DESCRIPTION:
+*DESCRIPTION*:
 This project focuses on building a simple AI chatbot that uses Natural Language Processing (NLP) to understand and respond to user queries. It simulates basic human-like interaction using pre-defined intents and NLP techniques.
 
 🎯 Objectives:
@@ -38,3 +38,5 @@ Web-based UI via Flask
 📈 Outcome:
 •Learned how chatbots work internally
 
+*Output*:
+![Image](https://github.com/user-attachments/assets/1b6521af-15d0-491c-9683-9e10f428c53c)
